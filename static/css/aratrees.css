@@ -31,7 +31,7 @@ a {
 .link {
     fill: none;
     stroke: #612904;
-    stroke-width: 2px;
+    stroke-width: 10px;
 }
 
 #canvas {
