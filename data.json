@@ -1,1 +1,2 @@
-{"name":"A","children":[{"name":"B","children":[{"name":"C","children":[{"name":"C2",{"name":"C3","size":1000}}]}]},{"name":"D","children":[{"name":"E","size":1000}]},{"name":"F","children":[{"name":"G","size":1000}]}]}
+{"name":"A","children":[{"name":"B","children":[{"name":"C","children":
+[{"name":"C2","size":1000}]},{"name":"D","children":[{"name":"E","size":1000}]},{"name":"F","children":[{"name":"G","size":1000}]}]}
