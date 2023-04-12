@@ -1,1 +1,1 @@
-{"name":"حمدان","children":[{"name":"سليمان","children":[{"name":"سعد","size":100}]},{"name":"سالم","children":[{"name":"رشيد","size":100}]},{"name":"خلف","children":[{"name":"جاسم","size":100}]}]}
+{"name":"حمدان","children":[{"name":"سليمان","children":[{"name":"سعد","size":100}]},{"name":"سالم","children":[{"name":"رشيد","children":[{"name":"فريد","size":100}]}]},{"name":"خلف","children":[{"name":"جاسم","size":100}]}]}
