@@ -1,2 +1,1 @@
-{"name":"A","children":[{"name":"B","children":[{"name":"C","children":
-[{"name":"C2","size":1000}]},{"name":"D","children":[{"name":"E","size":1000}]},{"name":"F","children":[{"name":"G","size":1000}]}]}
+{"name":"A","children":[{"name":"Car","children":[{"name":"Toyota","size":1000}]},{"name":"B","children":[{"name":"GreyHound","size":1000}]},{"name":"Train","children":[{"name":"Amtrak","size":1000}]}]}
