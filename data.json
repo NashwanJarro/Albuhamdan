@@ -1,4 +1,4 @@
-{"name":"حمدان","value": 15,"type": "black","level": "red","children":[{"name":"سليمان","children":[{"name":"حمد","children":[{"name":"محمد","size":1000}]},{"name":"حمود","size":1000}]},{"name":"عبدالله","children":[{"name":"B2","size":1000}]},{"name":"ابراهيم","children":[{"name":"C1","size":1000}]},
+{"name":"حمدان","children":[{"name":"سليمان","children":[{"name":"حمد","children":[{"name":"محمد","size":1000}]},{"name":"حمود","size":1000}]},{"name":"عبدالله","children":[{"name":"B2","size":1000}]},{"name":"ابراهيم","children":[{"name":"C1","size":1000}]},
 {"name":"داؤد","size":1000},
 {"name":"نصر","size":1000},
 {"name":"نصر","size":1000},
