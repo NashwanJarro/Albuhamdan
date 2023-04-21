@@ -2,9 +2,9 @@
 [{"name":"سليمان","children":
 [{"name":"محمد","children":
 [{"name":"حمد","children":
-[{"name":"حسين"},"children":
+[{"name":"حسين","children":
 [{"name":"علي"}],{"name":"نهار"}]}]},
-{"name":"حمود"}],"size":1000},
+{"name":"حمود"}]},"size":1000},
 {"name":"عبدالله","children":
 [{"name":"B2","size":1000}]},
 {"name":"ابراهيم","children":
