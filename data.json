@@ -1,8 +1,11 @@
 {"name":"حمدان",
 "children":[{"name":"سليمان",
-{"name":"عبدالله","children":[{"name":"B2","size":1000}]},{"name":"ابراهيم","children":[{"name":"C1","size":1000}]},
+{"name":"عبدالله",
+"children":[{"name":"B2","size":1000}]},
+{"name":"ابراهيم",
+"children":[{"name":"C1","size":1000}]},
 {"name":"داؤد","size":1000},
 {"name":"نصر","size":1000},
 {"name":"نصر","size":1000},
 {"name":"حسين","size":1000},
-{"name":"سعيد","size":1000}]}
+{"name":"سعيد","size":1000]}
