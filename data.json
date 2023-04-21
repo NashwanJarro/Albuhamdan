@@ -1,8 +1,8 @@
 {"name":"حمدان","children":
 [{"name":"سليمان","children":
 [{"name":"محمد","children":
-[{"name":"حمد","children":
-[{"name":"حسين"},{"name":"نهار"}]}]},
+[{"name":"حمد"}],"children":
+[{"name":"حسين"},{"name":"نهار"}]},
 {"name":"حمود"}],"size":1000},
 {"name":"عبدالله","children":
 [{"name":"B2","size":1000}]},
