@@ -2,8 +2,7 @@
 [{"name":"سليمان","children":
 [{"name":"محمد","children":
 [{"name":"حمد","children":
-[{"name":"حسين"},"children":
-["name":"علي"],
+[{"name":"حسين"},
 {"name":"نهار"}]}]},
 {"name":"حمود"}],"size":1000},
 {"name":"عبدالله","children":
