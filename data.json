@@ -9,7 +9,8 @@
 [{"name":"زبن","children":
 [{"name":"محمد","children":
 [{"name":"عبدالجليل","children":
-[{"name":"بكر"},
+[{"name":"بكر"},"children":
+[{"name":"علي"}],
 {"name":"حمد"}]},
 {"name":"وليد"}]},
 {"name":"ازبج"}]},
