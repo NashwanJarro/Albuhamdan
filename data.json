@@ -3,7 +3,7 @@
 [{"name":"محمد","children":
 [{"name":"حمد","children":
 [{"name":"حسين"},"children":
-[{"name":"علي"}],
+["name":"علي"],
 {"name":"نهار"}]}]},
 {"name":"حمود"}],"size":1000},
 {"name":"عبدالله","children":
