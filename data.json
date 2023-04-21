@@ -4,8 +4,8 @@
 [{"name":"حمد","children":
 [{"name":"حسين","children":
 [{"name":"علي","children":
-[{"name":"محمد"},"children":
-[{"name":"فارس"},{"name":"حسين"}],
+[{"name":"محمد","children":
+[{"name":"فارس"},{"name":"حسين"}]},
 {"name":"حمود"}]}]},
 {"name":"نهار"}]}]},
 {"name":"حمود"}],"size":1000},
