@@ -85,7 +85,7 @@ function update(source) {
   var nodeEnter = node.enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .on("auto", auto);
+      .on("click", click);
 
   nodeEnter.append("circle")
       .attr("r", 1e-6)
@@ -108,7 +108,7 @@ function update(source) {
       .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
   nodeUpdate.select("text")
-      .style("fill-opacity", 1);
+      .style("fill-opacity", 5);
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()
