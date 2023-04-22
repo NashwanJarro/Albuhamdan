@@ -82,7 +82,7 @@ function update(source) {
       .data(nodes, function(d) { return d.id || (d.id = ++i); });
 
   // Enter any new nodes at the parent's previous position.
-  var nodeEnter = node.enter().append("g")
+  var nodeEnter = node.enter().append("all")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
       .on("click", click);
@@ -159,10 +159,10 @@ function update(source) {
 function click(d) {
   if (d.children) {
     d._children = d.children;
-    d.children = true;
+    d.children = null;
   } else {
     d.children = d._children;
-    d._children = true;
+    d._children = null;
   }
   update(d);
 }
