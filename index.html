@@ -159,10 +159,10 @@ function update(source) {
 function click(d) {
   if (d.children) {
     d._children = d.children;
-    d.children = on;
+    d.children = true;
   } else {
     d.children = d._children;
-    d._children = on;
+    d._children = true;
   }
   update(d);
 }
