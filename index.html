@@ -108,7 +108,7 @@ function update(source) {
       .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
   nodeUpdate.select("text")
-      .style("fill-opacity", 5);
+      .style("fill-opacity", 1);
 
   // Transition exiting nodes to the parent's new position.
   var nodeExit = node.exit().transition()
@@ -155,15 +155,6 @@ function update(source) {
   });
 }
 
-// Toggle children on click.
-function click(d) {
-  if (d.children) {
-    d._children = d.children;
-    d.children = null;
-  } else {
-    d.children = d._children;
-    d._children = null;
-  }
   update(d);
 }
 
