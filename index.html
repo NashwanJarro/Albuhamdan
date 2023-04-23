@@ -81,13 +81,10 @@ function update(source) {
       .data(nodes, function(d) { return d.id || (d.id = ++i); });
 
   // Enter any new nodes at the parent's previous position.
-  .ghostCircle.show{
-      display:block;
-  }
-
-  .ghostCircle, .activeDrag .ghostCircle{
-       display: none;
-  }
+  var nodeEnter = node.enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+      .on("click", click);
 
   nodeEnter.append("circle")
       .attr("r", 1e-6)
